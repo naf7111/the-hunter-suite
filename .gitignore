@@ -1,11 +1,11 @@
-# تقارير الفحص (HTML Reports)
-# يمنع رفع تقارير الفحص التي تنتهي بصيغة .html
+# HTML Reports
+Uploading inspection reports ending in .html format is prohibited.
 Hardened_Report_*.html
 Hunter_Report_*.html
 Hunter_Suite_Report_*.html
 Security_Audit_*.html
 
-# ملفات بايثون المؤقتة
+# Temporary Python Files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -28,13 +28,13 @@ wheels/
 .installed.cfg
 *.egg
 
-# ملفات البيئة الافتراضية
+# Virtual environment files
 venv/
 ENV/
 env.bak/
 venv.bak/
 
-# ملفات الإعدادات الحساسة
+# Sensitive settings files
 .env
 .venv
 pip-log.txt
