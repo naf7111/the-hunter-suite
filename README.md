@@ -1,5 +1,5 @@
 # The Hunter Suite v1.0
-# The Hunter Suite v22.0
+
 **Advanced Reconnaissance and JavaScript Security Analysis Platform**
 
 The Hunter Suite is a comprehensive security tool developed for penetration testers and security researchers. It provides a modular approach to web reconnaissance, focusing on the discovery of hidden assets, auditing infrastructure security, and performing deep analysis of JavaScript source code.
