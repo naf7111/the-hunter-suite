@@ -1,0 +1,45 @@
+# تقارير الفحص (HTML Reports)
+# يمنع رفع تقارير الفحص التي تنتهي بصيغة .html
+Hardened_Report_*.html
+Hunter_Report_*.html
+Hunter_Suite_Report_*.html
+Security_Audit_*.html
+
+# ملفات بايثون المؤقتة
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ملفات البيئة الافتراضية
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ملفات الإعدادات الحساسة
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
